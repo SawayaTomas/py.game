@@ -1,2 +1,3 @@
-# py.game
-Snake Game
+# Snake Game  
+
+Clásico juego de Snake
